@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
-
-[Redesigned Project - Unemployment Rates in the U.S. in September 2020](https://uyenhnp.github.io/projects/redesigned-projects.html)
+### Redesigned Project - Unemployment Rates in the U.S. in September 2020
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-orange?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
+[![](https://img.shields.io/badge/R_Markdown-Open_Notebook-orange?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
 <img src="images/redesigned_projects.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
