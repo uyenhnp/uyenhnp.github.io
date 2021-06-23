@@ -3,8 +3,8 @@
 ---
 
 ### Redesigned Project - Unemployment Rates in the U.S. in September 2020
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-orange?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
-[![](https://img.shields.io/badge/R_Markdown-Open_Notebook-orange?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
+[![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
 <img src="images/redesigned_projects.jpg?raw=true"/>
 
 ---
