@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Redesigned Project - Unemployment Rates in the U.S. in September 2020](https://uyenhnp.github.io/projects/redesigned-projects.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/redesigned_projects.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
