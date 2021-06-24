@@ -8,7 +8,9 @@
 <img src="images/redesigned_projects.jpg?raw=true"/>
 
 ---
-### [Project 2 Title](/pdf/sample_presentation.pdf)
+### AIRBNB LISTING RENTAL PRICE PREDICTION IN NEW YORK CITY
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/airbnb-rental-price-prediction)
+[![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/airbnb-rental_prediction.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
