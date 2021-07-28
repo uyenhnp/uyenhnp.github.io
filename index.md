@@ -15,6 +15,7 @@ The project is implemented as following:
 \- Create a relational database and populate data into the database.
 \- Query the database to perform data analysis.
 -  Data visualization: create dashboards (Tableau).
+<img src="images/gmu_business.png?raw=true"/>
 
 ---
 ### Redesigned Project - Unemployment Rates in the U.S. in September 2020
