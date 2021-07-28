@@ -1,7 +1,22 @@
 ## Portfolio
 
 ---
+### RESTAURANT BUSINESSES AROUND GEORGE MASON UNIVERSITY IN FAIRFAX, VIRGINIA
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/gmu_business_database)
+[![](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/uyen.huynh4317/viz/GMU_business/Story1)
 
+The purpose of this project is to build a database and present the business distribution around George Mason University (4400 University Dr, Fairfax, VA 22030). From that, students at GMU can choose their favorite restaurants convenient for them or match with their hobbies.
+
+The project is implemented as following:
+- Data collection: retrieve business data using Yelp Fusion API & Google Maps API (Python).
+- Relational Database Design (MySQL)
+\- Design a conceptual schema using the ER diagram.
+\- Translate the ER diagram to relational tables.
+\- Create a relational database and populate data into the database.
+\- Query the database to perform data analysis.
+-  Data visualization: create dashboards (Tableau).
+
+---
 ### Redesigned Project - Unemployment Rates in the U.S. in September 2020
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
 [![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
@@ -16,11 +31,7 @@ In this project, we would like to target the scientific question of predicting A
 
 <img src="images/airbnb_rental_prediction.jpg?raw=true"/>
 
----
-### [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
@@ -29,9 +40,6 @@ In this project, we would like to target the scientific question of predicting A
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
 
 
 
