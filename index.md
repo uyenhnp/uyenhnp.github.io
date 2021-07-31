@@ -1,7 +1,6 @@
-## Portfolio
 
 ---
-### Restaurant Businesses around George Mason University in Fairfax, Virginia (Python, MySQL, Tableau)
+## Restaurant Businesses around George Mason University in Fairfax, Virginia (Python, MySQL, Tableau)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/gmu_business_database)
 [![](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/uyen.huynh4317/viz/GMU_business/Story1)
 
@@ -19,7 +18,7 @@ The project is implemented as following:
 <center><img src="https://github.com/uyenhnp/gmu_business_database/blob/master/gmu_business_review.gif?raw=true"></center>
 
 ---
-### Statistics about Diagnosed Diabetes among US Adults (Excel & Tableau)
+## Statistics about Diagnosed Diabetes among US Adults (Excel & Tableau)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/diabetes_us_adults)
 [![](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/uyen.huynh4317/viz/US_diabetes/US_diabates)
 
@@ -28,13 +27,13 @@ The purpose of this project is to visualize the percentage of diagnosed diabetes
 <center><img src="https://github.com/uyenhnp/uyenhnp.github.io/blob/main/images/diabetes_review.gif?raw=true"></center>
 
 ---
-### Redesigned Project - Unemployment Rates in the U.S. in September 2020
+## Redesigned Project - Unemployment Rates in the U.S. in September 2020
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
 [![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
 <center><img src="images/redesigned_projects.jpg?raw=true"/></center>
 
 ---
-### AIRBNB LISTING RENTAL PRICE PREDICTION IN NEW YORK CITY
+## AIRBNB LISTING RENTAL PRICE PREDICTION IN NEW YORK CITY
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/airbnb-rental-price-prediction)
 [![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/airbnb-rental_prediction.html)
 
@@ -43,7 +42,7 @@ In this project, we would like to target the scientific question of predicting A
 <center><img src="images/airbnb_rental_prediction.jpg?raw=true"/></center>
 
 ---
-### Crash Data from Town of Cary, North Carolina (Python, R, SQL)
+## Crash Data from Town of Cary, North Carolina (Python, R, SQL)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/crashes_north_carolina)
 [![](https://img.shields.io/badge/PDF-Open_Report-blue)](https://github.com/uyenhnp/crashes_north_carolina/blob/master/Report.pdf)
 
@@ -55,19 +54,6 @@ Traffic accidents are causing a substantial amount of unnecessary deaths and inj
 (5) Vehicle crashes often happen in dark lighting condition on two-way roads without medians separating the two traveling sides.  
 
 <center><img src="https://github.com/uyenhnp/crashes_north_carolina/blob/master/thumbnail.png?raw=true"/></center>
-
-
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
