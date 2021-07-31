@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-### RESTAURANT BUSINESSES AROUND GEORGE MASON UNIVERSITY IN FAIRFAX, VIRGINIA
+### Restaurant Businesses around George Mason University in Fairfax, Virginia (Python, MySQL, Tableau)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/gmu_business_database)
 [![](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/uyen.huynh4317/viz/GMU_business/Story1)
 
@@ -15,7 +15,17 @@ The project is implemented as following:
 \- Create a relational database and populate data into the database.
 \- Query the database to perform data analysis.
 -  Data visualization: create dashboards (Tableau).
+
 <img src="images/gmu_business.png?raw=true"/>
+
+---
+### Statistics about Diagnosed Diabetes among US Adults (Excel & Tableau)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/diabetes_us_adults)
+[![](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/uyen.huynh4317/viz/US_diabetes/US_diabates)
+
+The purpose of this project is to visualize the percentage of diagnosed diabetes among US adults aged >= 18 from 2000 to 2018. Additionally, we would like to investigate the correlation between diabetes rate and age/education/race factors.
+
+![review](https://github.com/uyenhnp/uyenhnp.github.io/blob/main/images/diabetes_review.gif)
 
 ---
 ### Redesigned Project - Unemployment Rates in the U.S. in September 2020
