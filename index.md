@@ -25,7 +25,7 @@ The project is implemented as following:
 
 The purpose of this project is to visualize the percentage of diagnosed diabetes among US adults aged >= 18 from 2000 to 2018. Additionally, we would like to investigate the correlation between diabetes rate and age/education/race factors.
 
-![review](https://github.com/uyenhnp/uyenhnp.github.io/blob/main/images/diabetes_review.gif)
+<center><img src="https://github.com/uyenhnp/uyenhnp.github.io/blob/main/images/diabetes_review.gif"></center>
 
 ---
 ### Redesigned Project - Unemployment Rates in the U.S. in September 2020
