@@ -16,7 +16,7 @@ The project is implemented as following:
 \- Query the database to perform data analysis.
 -  Data visualization: create dashboards (Tableau).
 
-<img src="images/gmu_business.png?raw=true"/>
+<center><img src="https://github.com/uyenhnp/gmu_business_database/blob/master/thumbnail_md.png"></center>
 
 ---
 ### Statistics about Diagnosed Diabetes among US Adults (Excel & Tableau)
