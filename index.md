@@ -30,6 +30,9 @@ The purpose of this project is to visualize the percentage of diagnosed diabetes
 ## Redesigned Project - Unemployment Rates in the U.S. in September 2020
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
 [![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
+
+The objective of this project is to improve the graph displayed on the U.S Bureau of Labor Statistics website using the linked micromap and the choropleth map. The reason is that the orginal chart does not convey the geographic data in an efficient way while the linked micromap and the choropleth map can reveal the pattern relating to regions and notice similarities and discrepancies between states.
+
 <center><img src="images/redesigned_projects.jpg?raw=true"/></center>
 
 ---
