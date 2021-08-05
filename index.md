@@ -33,7 +33,7 @@ The purpose of this project is to visualize the percentage of diagnosed diabetes
 <center><img src="images/redesigned_projects.jpg?raw=true"/></center>
 
 ---
-## AIRBNB LISTING RENTAL PRICE PREDICTION IN NEW YORK CITY
+## Airbnb Listing Rental Price Prediction in New York City
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/airbnb-rental-price-prediction)
 [![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/airbnb-rental_prediction.html)
 
@@ -54,7 +54,3 @@ Traffic accidents are causing a substantial amount of unnecessary deaths and inj
 (5) Vehicle crashes often happen in dark lighting condition on two-way roads without medians separating the two traveling sides.  
 
 <center><img src="https://github.com/uyenhnp/crashes_north_carolina/blob/master/thumbnail.png?raw=true"/></center>
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
