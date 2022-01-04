@@ -1,4 +1,3 @@
----
 ## Hateful Memes Challenge (PyTorch)
 ![Example](https://github.com/uyenhnp/hateful_memes_challenge/blob/master/demo/theme.jpg)
 
