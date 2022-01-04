@@ -1,3 +1,10 @@
+---
+## Hateful Memes Challenge (PyTorch)
+![Example](https://github.com/uyenhnp/hateful_memes_challenge/blob/master/demo/theme.jpg)
+
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/hateful_memes_challenge)
+
+In this project, we use Hateful Memes dataset created by Facebook AI to detect hateful speech in memes. When we view a meme, we can't analyze the meaning by looking at only the image or text. We have to combine both of them together to undestand the true meaning. The purpose of this project is to build a multimodal convolutional neuron network to classify a memes as "hateful" or "not hateful".
 
 ---
 ## Restaurant Businesses around George Mason University in Fairfax, Virginia (Python, MySQL, Tableau)
