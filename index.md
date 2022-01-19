@@ -6,6 +6,16 @@ In this project, we use Hateful Memes dataset created by Facebook AI to detect h
 <center><img src="https://github.com/uyenhnp/hateful_memes_challenge/blob/master/demo/theme.jpg?raw=true"/></center>
 
 ---
+## PetFinder Pawpularity Score Contest (Pytorch)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/PetFinder)
+
+Petfinder is a contest hosted by [PetFinder.my](https://www.petfinder.my) on [Kaggle](https://www.kaggle.com/c/petfinder-pawpularity-score). 
+
+The purpose of this competition is to analyze raw images and photo metadata to predict the “Pawpularity” of pet photos. The Pawpularity Score is calculated from the number of view statistics of each pet's profile at the listing pages. Through the predicted score of each pet photo, PetFinder.my can instruct rescuers how to improve the photo quality, which helps increasing the opportunities for a pet to be adopted faster. 
+
+<center><img src="https://github.com/uyenhnp/PetFinder/blob/master/theme.png?raw=true"/></center>
+
+---
 ## Restaurant Businesses around George Mason University in Fairfax, Virginia (Python, MySQL, Tableau)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/gmu_business_database)
 [![](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/uyen.huynh4317/viz/GMU_business/Story1)
