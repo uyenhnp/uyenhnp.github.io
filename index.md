@@ -1,9 +1,11 @@
 ## Hateful Memes Challenge (PyTorch)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/hateful_memes_challenge)
 
-In this project, we use Hateful Memes dataset created by Facebook AI to detect hateful speech in memes. When we view a meme, we can't analyze the meaning by looking at only the image or text. We have to combine both of them together to undestand the true meaning. The purpose of this project is to build a multimodal convolutional neuron network to classify a memes as "hateful" or "not hateful".
+Meme has become an essential element of the current internet era. Meme containing hateful content is without a doubt also becoming more and more widespread on many social media sites. Therefore, having a machine learning system that can automatically detect memes with hateful content is the goal of these social media sites, especially Facebook.
 
-<center><img src="https://github.com/uyenhnp/hateful_memes_challenge/blob/master/demo/theme.jpg?raw=true"/></center>
+In this project, we aim to use the Hateful Memes dataset provided by *Facebook AI* to build a machine learning model that can detect hateful speech in memes. When we view a meme, it is impossible to understand its true meaning by looking separately at only its image or text. It is necessary to combine the information in both modalities to comprehend the meme's true interpretation. Therefore, the purpose of this work is to explore multiple approaches to implement a multi-modal convolution neural network that can classify a meme as "**hateful**" or "**not hateful**".
+
+<center><img src="https://github.com/uyenhnp/hateful_memes_challenge/blob/master/theme.jpg?raw=true"/></center>
 
 ---
 ## PetFinder Pawpularity Score Contest (Pytorch)
