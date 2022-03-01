@@ -45,13 +45,19 @@ The purpose of this project is to visualize the percentage of diagnosed diabetes
 <center><img src="https://github.com/uyenhnp/uyenhnp.github.io/blob/main/images/diabetes_review.gif?raw=true"></center>
 
 ---
-## Redesigned Project - Unemployment Rates in the U.S. in September 2020
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
-[![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
+## Crash Data from Town of Cary, North Carolina (Tableau, Python, R, SQL)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/crashes_north_carolina)
+[![](https://img.shields.io/badge/Tableau-Open_Dashboard-blue?logo=Tableau)](https://public.tableau.com/app/profile/uyenhuynh/viz/CrashDatafromTownofCaryNorthCarolinafrom2016to2021/Dashboard2)
+[![](https://img.shields.io/badge/PDF-Open_Report-blue)](https://github.com/uyenhnp/crashes_north_carolina/blob/master/Report.pdf)
 
-The objective of this project is to improve the graph displayed on the U.S Bureau of Labor Statistics website using the linked micromap and the choropleth map. The reason is that the orginal chart does not convey the geographic data in an efficient way while the linked micromap and the choropleth map can reveal the pattern relating to regions and notice similarities and discrepancies between states.
+Traffic accidents are causing a substantial amount of unnecessary deaths and injuries every year in the United States. Having a better understanding about the leading causes that contribute to vehicle crashes on road is a very important step towards reducing the occurrence of these unfortunate events. In this paper, we investigate the most common reasons that lead to traffic accidents in the Town of Cary (North Carolina) in particular, and then generalize our findings to the entire US country in general. Through our analysis, we effectively show the following interesting observations:  
+(1) COVID-19 pandemic substantially reduced traffic congestion as well as vehicle crashes on road during 2020 compared to prior years.  
+(2) The most common reasons that have led to crashes is due to drivers’ carelessness and ignorance of their own vehicle conditions.  
+(3) Most traffic accidents occur in the afternoon during rush hour, and very few accidents occur at night but most of them are fatal.  
+(4) Taxicab has the highest crash percentage during bad weather condition, which is possibly due to tax drivers are often in a rush.  
+(5) Vehicle crashes often happen in dark lighting condition on two-way roads without medians separating the two traveling sides.  
 
-<center><img src="images/redesigned_projects.jpg?raw=true"/></center>
+<center><img src="https://github.com/uyenhnp/crashes_north_carolina/blob/master/photo.png?raw=true"/></center>
 
 ---
 ## Airbnb Listing Rental Price Prediction in New York City
@@ -63,15 +69,11 @@ In this project, we would like to target the scientific question of predicting A
 <center><img src="images/airbnb_rental_prediction.jpg?raw=true"/></center>
 
 ---
-## Crash Data from Town of Cary, North Carolina (Python, R, SQL)
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/crashes_north_carolina)
-[![](https://img.shields.io/badge/PDF-Open_Report-blue)](https://github.com/uyenhnp/crashes_north_carolina/blob/master/Report.pdf)
+## Redesigned Project - Unemployment Rates in the U.S. in September 2020
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/uyenhnp/redesigned-projects1)
+[![](https://img.shields.io/badge/R_Markdown-Open_Notebook-blue?logo=R)](https://uyenhnp.github.io/projects/redesigned-projects.html)
 
-Traffic accidents are causing a substantial amount of unnecessary deaths and injuries every year in the United States. Having a better understanding about the leading causes that contribute to vehicle crashes on road is a very important step towards reducing the occurrence of these unfortunate events. In this paper, we investigate the most common reasons that lead to traffic accidents in the Town of Cary (North Carolina) in particular, and then generalize our findings to the entire US country in general. Through our analysis, we effectively show the following interesting observations:  
-(1) COVID-19 pandemic substantially reduced traffic congestion as well as vehicle crashes on road during 2020 compared to prior years.  
-(2) The most common reasons that have led to crashes is due to drivers’ carelessness and ignorance of their own vehicle conditions.  
-(3) Most traffic accidents occur in the afternoon during rush hour, and very few accidents occur at night but most of them are fatal.  
-(4) Taxicab has the highest crash percentage during bad weather condition, which is possibly due to tax drivers are often in a rush.  
-(5) Vehicle crashes often happen in dark lighting condition on two-way roads without medians separating the two traveling sides.  
+The objective of this project is to improve the graph displayed on the U.S Bureau of Labor Statistics website using the linked micromap and the choropleth map. The reason is that the orginal chart does not convey the geographic data in an efficient way while the linked micromap and the choropleth map can reveal the pattern relating to regions and notice similarities and discrepancies between states.
 
-<center><img src="https://github.com/uyenhnp/crashes_north_carolina/blob/master/thumbnail.png?raw=true"/></center>
+<center><img src="images/redesigned_projects.jpg?raw=true"/></center>
+
